@@ -2,10 +2,9 @@
 # Program:        Password Generator
 # Date Created:   01-24-23
 # Date Modified:  01-27-23
-# Description: A program to generate a random strong password based on a user's instructions. user can decide the number of characters in 
-# their password along with the number of letters, digits, and special characters in their 
-# custom password. The program should be tested to all the extremes to ensure proper 
-# functioning
+# Description: A program to generate a random strong password based on a user's instructions. User decides the number of characters for
+# password, also the number of letters, digits, and special characters in the custom password. The program should be tested to all the extremes to 
+# ensure proper functioning
 
 
 # pythom imports to use string and random module
